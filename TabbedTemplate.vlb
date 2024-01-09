@@ -1,0 +1,13 @@
+﻿[Image10]
+Coordinates=10,78,55,51
+
+[Label1]
+Coordinates=285,78,46,51
+
+[]
+Coordinates=228,285,55,51
+Visible=True
+
+[ClientSocket]
+Coordinates=455,324,78,33
+
